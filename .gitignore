@@ -1,11 +1,22 @@
+
+# Python
 __pycache__/
-*.pyc
-.venv/
-.env
-*.db
-*.sqlite*
-data/
-data_large/
-reports/
-final_state.csv
+*.py[cod]
 .pytest_cache/
+.venv/
+venv/
+
+# Secrets
+.env
+
+# Local databases
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+
+# Generated reports
+reports/
+
+# Generated state
+final_state.csv
