@@ -2,7 +2,7 @@
 
 
 
-\- AI-assisted development and debugging tools.
+\- Chatgpt for debugging and test-case suggestions.
 
 
 
