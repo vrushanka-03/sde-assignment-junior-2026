@@ -65,3 +65,4 @@
 
 
 The automated tests cover normalization and lead validation. Event ingestion, reconciliation, and reporting were additionally checked through manual execution and SQL queries.
+
